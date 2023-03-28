@@ -1,2 +1,2 @@
-# luminai
-The app for the LuminAI chat bot.
+# LuminAI
+Cross-platform Godot app for the LuminAI service.
